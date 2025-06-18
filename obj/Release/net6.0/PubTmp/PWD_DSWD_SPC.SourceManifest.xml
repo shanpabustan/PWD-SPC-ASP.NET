@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\USER\Desktop\PWD-SPC-June-17-2025\PWD_DSWD_SPC\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\USER\Desktop\PWD-SPC-June-17-2025\PWD_DSWD_SPC\obj\Release\net6.0\PubTmp\EFSQLScripts\PWD_DSWD_SPC.Data.RegisterDbContext.sql" />
+</sitemanifest>

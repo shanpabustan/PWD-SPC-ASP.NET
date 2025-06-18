@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3qScvexze02L/5jFNJeEXAAAAAACAAAAAAAQZgAAAAEAACAAAACkHkK2GB7JHJeVlzzvQcmTBzuKqFcedrs3Z5dViBMtngAAAAAOgAAAAAIAACAAAAByjhsNsAVH4eNMEpCSZqNQG4qYOiJ4MQ4x8CYkxliGnyAAAACAFwoLmfesmokk54McnPO1vImXF0DLITn35j1/grNbc0AAAADACAt/E57pfW/NqW0BKpyA72tEevsphu8PT59I7m0VHnVYq+b4XWHeXY8wHZIRDsWXmbOI8W80qOPWjmbeNNpY</EncryptedPassword>
+    <History>True|2025-06-12T05:12:42.0968716Z||;True|2025-06-12T12:57:43.1691630+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="PWDConnectionString">
+      <Value>Server=db21416.public.databaseasp.net%3b Database=db21416%3b User Id=db21416%3b Password=p_2M%253Dft+4L%3b Encrypt=True%3b TrustServerCertificate=True%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="PWD_DSWD_SPC.Data.RegisterDbContext">
+      <Value>Server=db21416.public.databaseasp.net%3b Database=db21416%3b User Id=db21416%3b Password=p_2M%253Dft+4L%3b Encrypt=True%3b TrustServerCertificate=True%3b MultipleActiveResultSets=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

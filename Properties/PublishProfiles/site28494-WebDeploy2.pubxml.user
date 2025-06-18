@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3qScvexze02L/5jFNJeEXAAAAAACAAAAAAAQZgAAAAEAACAAAACLgDm8e2cTWqn42mupw5nUhUUG0qLdiZ8xR5YD0yB9uQAAAAAOgAAAAAIAACAAAAClIiC3T0cmOxleDJm/wsFSPQxmAlM+i1IPEDhJDwgF/SAAAADdELFDFXunSIj5BRBzrSyYmeAWX5A+ESpceK42aZwQQkAAAACP54n7inawn317VsSB7xk4drcSz8E2RBkeWhg0GNB6jLxZ2v00trY3KH53bokKhcjeTfjaSYyg1+6ygSR9VJiK</EncryptedPassword>
+    <History>True|2025-06-17T15:59:49.8799672Z||;True|2025-06-17T23:16:45.5448741+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="PWDConnectionString">
+      <Value>Server=db21802.databaseasp.net%3b Database=db21802%3b User Id=db21802%3b Password=8Fb_%3f2CzE%25q4%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="PWD_DSWD_SPC.Data.RegisterDbContext">
+      <Value>Server=db21802.databaseasp.net%3b Database=db21802%3b User Id=db21802%3b Password=8Fb_%3f2CzE%25q4%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

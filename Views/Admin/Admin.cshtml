@@ -1,0 +1,1035 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Admin/Admin_Layout.cshtml";
+}
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+
+<!--PWD Per Brgy css-->
+<style>
+    .details {
+        position: relative;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 3fr 3fr 3fr;
+        grid-gap: 10px;
+        margin-bottom: 20px
+    }
+
+    .cardHeader h4 {
+        font-weight: 600;
+        color: #0B2271;
+    }
+
+    .details table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+
+        .details table thead td {
+            font-weight: 600;
+        }
+
+    .recentOrders table tr {
+        color: var(--black1);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
+        .recentOrders table tr:last-child {
+            border-bottom: none;
+        }
+
+    .recentOrders table tbody tr:hover {
+        background: var(--blue);
+        color: var(--white);
+    }
+
+    .recentOrders table tr td {
+        padding: 10px;
+    }
+
+        .recentOrders table tr td:last-child {
+            text-align: end;
+        }
+
+        .recentOrders table tr td:nth-child(2) {
+            text-align: end;
+        }
+
+        .recentOrders table tr td:nth-child(3) {
+            text-align: center;
+        }
+
+    .recentCustomers {
+        position: relative;
+        display: table-column;
+        min-height: 500px;
+        padding: 20px;
+        background: var(--white);
+        box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+        border-radius: 20px;
+    }
+
+        .recentCustomers .imgBx {
+            position: relative;
+            width: 40px;
+            height: 40px;
+            border-radius: 50px;
+            overflow: hidden;
+        }
+
+            .recentCustomers .imgBx img {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+
+        .recentCustomers table tr td {
+            padding: 12px 10px;
+            transition: background-color 0.3s, color 0.3s; /* Smooth transition for hover effects */
+        }
+
+            .recentCustomers table tr td h4 {
+                font-size: 16px;
+                font-weight: 500;
+                line-height: 1.2rem;
+            }
+
+                .recentCustomers table tr td h4 span {
+                    font-size: 14px;
+                    color: var(--black2);
+                }
+
+        .recentCustomers .cardHeader h4 {
+            font-size: 18px;
+            color: #0B2271;
+        }
+
+        .recentCustomers table tr:hover {
+            background: #0B2271;
+            color: #ffff;
+        }
+
+
+            .recentCustomers table tr:hover td {
+                color: #ffff;
+            }
+
+                .recentCustomers table tr:hover td h4 span {
+                    color: #ffff;
+                }
+
+            .recentCustomers table tr:hover td {
+                background: inherit;
+            }
+
+    .scrollableTable {
+        max-height: 600px;
+        overflow-y: auto;
+    }
+
+        .scrollableTable table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .scrollableTable table tr td {
+                padding: 10px;
+            }
+</style>
+
+
+
+
+<h3 class="text-dark mb-0" style="padding-top: 20px;">Dashboard</h3>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 g-3">
+    <div class="col mb-3">
+        <div class="card shadow border-start-primary h-100">
+            <div class="card-body d-flex flex-column">
+                <div class="row align-items-center no-gutters flex-grow-1">
+                    <div class="col me-2">
+                        <a href="@Url.Action("ListofAllAccounts", "Admin")" style="border-style: none;">
+                            <div class="text-uppercase fw-bold text-primary text-xs mb-1"><span>Total PWDs (valid)</span></div>
+                            <div class="fw-bold text-dark h5 mb-0"><span>@ViewBag.TotalApprovedApplicants</span></div>
+                        </a>
+                    </div>
+                    <div class="col-auto"><i class="fas fa-user-friends fa-2x text-gray-300"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col mb-3">
+        <div class="card shadow border-start-success h-100">
+            <div class="card-body d-flex flex-column">
+                <div class="row align-items-center no-gutters flex-grow-1">
+                    <div class="col me-2">
+                        <a href="@Url.Action("ArchivedAccounts", "Admin")" style="border-style: none;">
+                            <div class="text-uppercase fw-bold text-danger text-xs mb-1"><span>Archived Applicants</span></div>
+                            <div class="fw-bold text-dark h5 mb-0"><span>@ViewBag.TotalArchivedApplicants</span></div>
+                        </a>
+                    </div>
+                    <div class="col-auto"><i class="fas fa-file-archive fa-2x text-gray-300"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col mb-3">
+        <div class="card shadow border-start-success h-100">
+            <div class="card-body d-flex flex-column">
+                <div class="row align-items-center no-gutters flex-grow-1">
+                    <div class="col me-2">
+                        <a href="@Url.Action("Applicants", "Applicant")" style="border-style: none;">
+                            <div class="text-uppercase fw-bold text-warning text-xs mb-1"><span>Pending PWD Applicants</span></div>
+                            <div class="fw-bold text-dark h5 mb-0"><span>@ViewBag.TotalPendingApplicants</span></div>
+                        </a>
+                    </div>
+                    <div class="col-auto"><i class="fas fa-user-clock fa-2x text-gray-300"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    @* QR Data Analytics *@
+    <div class="col mb-3">
+        <div class="card shadow border-start-success h-100">
+            <div class="card-body d-flex flex-column">
+                <div class="row align-items-center no-gutters flex-grow-1">
+                    <div class="col me-2">
+                        <div data-bs-toggle="modal" data-bs-target="#qrCodeModal" style="cursor: pointer;">
+                            <div class="text-uppercase fw-bold text-primary text-xs mb-1"><span>View Generated QR Code</span></div>
+                            <div class="fw-bold text-dark h5 mb-0"><span>@ViewBag.TotalGeneratedQrCodes</span></div>
+                        </div>
+                    </div>
+                    <div class="col-auto"><i class="fas fa-qrcode fa-2x text-gray-300"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col mb-3">
+        <div class="card shadow border-start-success h-100">
+            <div class="card-body d-flex flex-column">
+                <div class="row align-items-center no-gutters flex-grow-1">
+                    <div class="col me-2">
+                        <a asp-action="GenerateApprovedApplicantsExcel" style="border-style: none;">
+                            <div class="text-uppercase fw-bold text-success text-xs mb-1"><span>Download Approved Applicants</span></div>
+                        </a>
+                    </div>
+                    <div class="col-auto"><i class="fas fa-file-download fa-2x text-gray-300"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@{
+    // Helper function to sanitize IDs
+    string GenerateSafeId(string input) =>
+        System.Text.RegularExpressions.Regex.Replace(input, "[^a-zA-Z0-9-]", "-");
+}
+
+@* QR Code Data analytics Modal *@
+<div class="modal fade" id="qrCodeModal" tabindex="-1" aria-labelledby="qrCodeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color:#0B2271">
+                <h5 class="modal-title" id="qrCodeModalLabel" style="color:white">Generated QR Codes</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="accordion" id="qrCodeAccordion">
+                    @foreach (var establishment in ViewBag.GeneratedQrCodes)
+                    {
+                        var safeId = GenerateSafeId($"collapse-{establishment.EstablishmentName}-{establishment.Branch}");
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading-@safeId">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#@safeId" aria-expanded="false" aria-controls="@safeId">
+                                    @establishment.EstablishmentName - @establishment.Branch
+                                </button>
+                            </h2>
+                            <div id="@safeId" class="accordion-collapse collapse" aria-labelledby="heading-@safeId" data-bs-parent="#qrCodeAccordion">
+                                <div class="accordion-body">
+                                    <ul class="list-group">
+                                        @foreach (var qrCode in establishment.QrCodes)
+                                        {
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                                                <div>
+                                                    <img src="data:image/png;base64,@qrCode.QrCodeBase64" alt="QR Code" class="img-thumbnail" style="max-width: 100px;">
+                                                    <span class="badge bg-secondary">@qrCode.TypeOfQRCode</span>
+                                                </div>
+                                                <div>
+                                                    <a class="btn btn-primary btn-sm" href="data:image/png;base64,@qrCode.QrCodeBase64" download="@($"{establishment.EstablishmentName}-{establishment.Branch}.png")">Download</a>
+
+
+                                                    <!-- Delete Button -->
+                                                    <form asp-action="DeleteQrCode" asp-route-qrCodeBase64="@qrCode.QrCodeBase64" method="post" style="display:inline;">
+                                                        <button type="button" class="btn btn-danger btn-sm" onclick="confirmDeletion('@qrCode.QrCodeBase64')">Delete</button>
+                                                    </form>
+                                                </div>
+                                            </li>
+                                        }
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="details">
+    @* <!-- ================= Report Section ================ --> *@
+    <div class="recentCustomers card shadow border-start-primary py-2">
+        <div class="card-body">
+            <div class="row align-items-center no-gutters">
+                <div class="col-12 col-md-9 me-2">
+                    <h4 style="font-weight: 600; color:#0B2271;">
+                        Total Complaints :
+                        <span class="fw-bold text-dark h5 mb-0">@ViewBag.TotalReports</span>
+                    </h4>
+                </div>
+                <div class="col-auto">
+                    <a href="@Url.Action("Report", "Admin")" style="text-decoration: none; color: inherit; border: none;">
+                        <i class="fas fa-tasks fa-2x text-gray-300"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="scrollableTable">
+            <table class="table table-responsive">
+                <thead>
+                    <tr>
+                        <td>Name</td>
+                        <td>Type of Disability</td>
+                        <td>Status</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var report in ViewBag.Reports)
+                    {
+                        <tr>
+                            <td>@report.FullName</td>
+                            <td>@report.TypeOfDisability</td>
+                            <td>@report.Status</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+    <!-- ================= Pwd per Brgy ================ -->
+    <div class="recentCustomers card shadow border-start-success py-2">
+        <div class="card-body">
+            <div class="row align-items-center no-gutters">
+                <div class="col-12 col-md-9 me-2">
+                    <h4 style="font-weight: 600; color:#0B2271;">PWD Per Barangay</h4>
+                </div>
+                <div class="col-auto">
+                    <i class="fas fa-building fa-2x text-gray-300"></i>
+                </div>
+            </div>
+        </div>
+        <div class="scrollableTable">
+            <table class="table-responsive">
+                <thead>
+                    <tr>
+                        <td>Barangay</td>
+                        <td>Count of PWDs</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.PwdCountsPerBarangay)
+                    {
+                        <tr>
+                            <td>
+                                <h4>@item.Barangay</h4>
+                            </td>
+                            <td>
+                                <h4>@item.Count</h4>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    @{
+        // Helper function to sanitize IDs
+        string SanitizeId(string input) =>
+        System.Text.RegularExpressions.Regex.Replace(input, "[^a-zA-Z0-9-]", "_");
+    }
+
+    <!-- View for Total Establishments -->
+    <div class="recentCustomers card shadow border-start-success py-2">
+        <div class="card-body">
+            <div class="row align-items-center no-gutters">
+                <div class="col-12 col-md-9 me-2">
+                    <h4 style="font-weight: 600; color:#0B2271;">
+                        Total Establishments :
+                        <span class="fw-bold text-dark h5 mb-0">@ViewBag.TotalAccreditedEstablishments</span>
+                    </h4>
+                </div>
+                <div class="col-auto">
+                    <i class="fas fa-store fa-2x text-gray-300"></i>
+                </div>
+            </div>
+        </div>
+        <div class="scrollableTable">
+            <table class="table-responsive">
+                <thead>
+                    <tr>
+                        <td>Establishment</td>
+                        <td>Branches</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var establishment in ViewBag.TotalVisits)
+                    {
+                        var sanitizedId = SanitizeId($"view-branches-{establishment.EstablishmentName}");
+                        <tr>
+                            <td>@establishment.EstablishmentName</td>
+                            <td>
+                                <button class="btn btn-outline-primary btn-sm"
+                                        data-bs-toggle="modal"
+                                        data-bs-target="#@sanitizedId">
+                                    View Branches
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- View Branches Modals -->
+    @foreach (var establishment in ViewBag.TotalVisits)
+    {
+        var sanitizedId = SanitizeId($"view-branches-{establishment.EstablishmentName}");
+        <div class="modal fade" id="@sanitizedId" tabindex="-1" aria-labelledby="view-BranchesModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header" style="background-color:#0B2271">
+                        <h5 class="modal-title" style="color:white">
+                            Total Branches: @establishment.TotalBranches
+                        </h5>
+                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="table-responsive" style="max-height: 400px; overflow-y: auto;">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Branch</th>
+                                        <th>Total Visits</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var branch in establishment.Branches)
+                                    {
+                                        var branchModalId = $"visitsModal-{establishment.EstablishmentName.Replace(" ", "-")}-{branch.BranchName.Replace(" ", "-")}";
+                                        <tr>
+                                            <td>@branch.BranchName</td>
+                                            <td>
+                                                <button class="btn btn-link p-0"
+                                                        data-bs-toggle="modal"
+                                                        data-bs-target="#@branchModalId"
+                                                        data-establishment="@establishment.EstablishmentName"
+                                                        data-branch="@branch.BranchName">
+                                                    @branch.TotalVisits
+                                                </button>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="d-flex justify-content-center">
+                            <button type="button" class="btn btn-outline-primary btn-sm" data-bs-dismiss="modal" aria-label="Close">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- User Visits Modal -->
+        @foreach (var branch in establishment.Branches)
+        {
+            var branchModalId = $"visitsModal-{establishment.EstablishmentName.Replace(" ", "-")}-{branch.BranchName.Replace(" ", "-")}";
+            <div class="modal fade" id="@branchModalId" tabindex="-1" aria-labelledby="visitsModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-xl modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header" style="background-color:#0B2271">
+                            <h5 class="modal-title" style="color:white">User Visits - @branch.BranchName</h5>
+                            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+                        </div>
+                        <div class="modal-body">
+                            <form id="filterForm-@branchModalId" data-establishment="@establishment.EstablishmentName" data-branch="@branch.BranchName">
+                                <div class="card shadow-sm mb-4">
+                                    <div class="card-body">
+                                        <div class="row align-items-center">
+                                            <div class="col-md-8">
+                                                <div class="form-group">
+                                                    <label class="form-label fw-bold text-dark mb-2">
+                                                        <i class="fas fa-calendar-alt me-2"></i>Select Month
+                                                    </label>
+                                                    <input type="month" class="form-control form-control-lg shadow-none" id="monthPicker-@branchModalId" name="selectedMonth">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4 d-flex align-items-end">
+                                                <button type="button" style="background-color:#0B2271; color:white;" class="btn btn-lg w-100 shadow-sm" onclick="filterVisits('@establishment.EstablishmentName', '@branch.BranchName', '@branchModalId')">
+                                                    <i class="fas fa-filter me-2"></i>Apply Filter
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+
+                            <div id="visitsTableContainer-@branchModalId" class="mt-4">
+                                <!-- Visit details will be inserted here via JS -->
+                            </div>
+
+                            <div class="d-flex justify-content-end gap-2 mt-4">
+                                <button class="btn btn-outline-success btn-lg shadow-sm" onclick="exportToExcel('@branchModalId')">
+                                    <i class="fas fa-file-excel me-2"></i>Export to Excel
+                                </button>
+                                <button class="btn btn-outline-danger btn-lg shadow-sm" onclick="exportToPDF('@branchModalId')">
+                                    <i class="fas fa-file-pdf me-2"></i>Export to PDF
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+
+
+
+
+
+
+
+
+</div>
+
+<!-- Bar Graph Section -->
+<div class="chart-container" style="position: relative; width: 100%; height: auto; max-width: 100vw; box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15); padding: 20px; border-radius: 28px; margin: 0 auto; box-sizing: border-box; border: 1px solid var(--bs-border-color-translucent);">
+    <!-- Heading -->
+    <h5 style="text-align: center; font-size: calc(0.5rem + 1vw); font-weight: bold; margin-bottom: 15px;">
+        Graph in Different Types of Disability
+    </h5>
+    <!-- Canvas for Bar Chart -->
+    <canvas id="disabilityChart"></canvas>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Bar graph analytics
+        const disabilityData = JSON.parse('@Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.DisabilityCounts))');
+        const labels = disabilityData.map(d => d.DisabilityType || "Unknown");
+        const data = disabilityData.map(d => d.Count);
+
+        const ctx = document.getElementById('disabilityChart').getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Number of Users',
+                    data: data,
+                    backgroundColor: '#0E2C95',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                plugins: {
+                    legend: {
+                        display: true,
+                        position: 'top',
+                    }
+                },
+                scales: {
+                    x: {
+                        title: { display: true, text: 'Disability Type' }
+                    },
+                    y: {
+                        title: { display: true, text: 'User Count' },
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            callback: value => Number.isInteger(value) ? value : ''
+                        }
+                    }
+                }
+            }
+        });
+
+        // Attach click event to view branches buttons
+        document.querySelectorAll('.view-branches-btn').forEach(button => {
+            button.addEventListener('click', function () {
+                const establishmentName = this.getAttribute('data-establishment');
+                document.getElementById('branch-modal-title').textContent = establishmentName;
+
+                fetch(`@Url.Action("GetBranches", "Admin")?establishmentName=${encodeURIComponent(establishmentName)}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        const tbody = document.getElementById('branch-modal-body');
+                        tbody.innerHTML = ''; // Clear old data
+
+                        data.forEach(branch => {
+                            const row = document.createElement('tr');
+                            row.innerHTML = `
+                                <td>${branch.BranchName}</td>
+                                <td>${branch.Count}</td>
+                                <td>${branch.TotalVisits}</td>
+                            `;
+                            tbody.appendChild(row);
+                        });
+                    })
+                    .catch(error => {
+                        console.error('Error fetching branch data:', error);
+                        Swal.fire('Error', 'Failed to load branch data. Please try again.', 'error');
+                    });
+            });
+        });
+    });
+
+    // QR code deletion
+    function confirmDeletion(qrCodeBase64) {
+        Swal.fire({
+            title: 'Are you sure?',
+            text: "You won't be able to revert this!",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Yes, delete it!'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                fetch('@Url.Action("DeleteQrCode", "Admin")', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ qrCodeBase64 })
+                })
+                .then(response => {
+                    if (response.ok) {
+                        Swal.fire('Deleted!', 'The QR code has been deleted.', 'success').then(() => location.reload());
+                    } else {
+                        Swal.fire('Error', 'Failed to delete the QR code.', 'error');
+                    }
+                })
+                .catch(() => Swal.fire('Error', 'An error occurred. Please try again.', 'error'));
+            }
+        });
+    }
+
+    // Function to update visit counts
+    function updateVisitCounts() {
+        const visitCountElements = document.querySelectorAll('[data-bs-target^="#visitsModal-"]');
+        visitCountElements.forEach(element => {
+            const establishmentName = element.getAttribute('data-establishment');
+            const branchName = element.getAttribute('data-branch');
+
+            // Get current date range (last 30 days)
+            const endDate = new Date();
+            const startDate = new Date();
+            startDate.setDate(startDate.getDate() - 30);
+
+            // Fetch visit count
+            fetch(`@Url.Action("GetUserVisits", "Admin")?establishmentName=${encodeURIComponent(establishmentName)}&branchName=${encodeURIComponent(branchName)}&startDate=${startDate.toISOString()}&endDate=${endDate.toISOString()}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        throw new Error(data.error);
+                    }
+                    // Update the visit count
+                    element.textContent = data.length;
+                })
+                .catch(error => {
+                    console.error('Error updating visit count:', error);
+                });
+        });
+    }
+
+    // Update visit counts every 5 seconds
+    setInterval(updateVisitCounts, 5000);
+
+    // Initial update of visit counts
+    document.addEventListener('DOMContentLoaded', function() {
+        updateVisitCounts();
+
+        // Initialize all modals
+        const visitButtons = document.querySelectorAll('[data-bs-target^="#visitsModal-"]');
+        visitButtons.forEach(button => {
+            button.addEventListener('click', function(e) {
+                e.preventDefault();
+                const modalId = this.getAttribute('data-bs-target').replace('#', '');
+                const establishmentName = this.getAttribute('data-establishment');
+                const branchName = this.getAttribute('data-branch');
+
+                // Get the modal element
+                const modalElement = document.getElementById(modalId);
+                if (!modalElement) {
+                    console.error(`Modal element not found: ${modalId}`);
+                    return;
+                }
+
+                // Initialize the modal if it hasn't been initialized
+                let modal = bootstrap.Modal.getInstance(modalElement);
+                if (!modal) {
+                    modal = new bootstrap.Modal(modalElement);
+                }
+
+                // Add event listener for when modal is shown
+                modalElement.addEventListener('shown.bs.modal', function() {
+                    initializeVisitsModal(modalId, establishmentName, branchName);
+                }, { once: true });
+
+                // Show the modal
+                modal.show();
+            });
+        });
+    });
+
+    // Function to initialize month picker and load initial data
+    function initializeVisitsModal(modalId, establishmentName, branchName) {
+        const today = new Date();
+        const monthPicker = document.getElementById(`monthPicker-${modalId}`);
+
+        if (!monthPicker) {
+            console.error(`Month picker not found: monthPicker-${modalId}`);
+            return;
+        }
+
+        // Set default to current month
+        const currentMonth = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}`;
+        monthPicker.value = currentMonth;
+
+        // Load initial data with current month filter
+        const [year, month] = currentMonth.split('-');
+        const startDate = new Date(year, month - 1, 1);
+        const endDate = new Date(year, month, 0); // Last day of the month
+
+        const container = document.getElementById(`visitsTableContainer-${modalId}`);
+        if (!container) {
+            console.error(`Container not found: visitsTableContainer-${modalId}`);
+            return;
+        }
+
+        // Show loading state
+        container.innerHTML = '<div class="text-center"><div class="spinner-border text-primary" role="status"><span class="visually-hidden">Loading...</span></div></div>';
+
+        // Fetch data with current month filter
+        fetch(`@Url.Action("GetUserVisits", "Admin")?establishmentName=${encodeURIComponent(establishmentName)}&branchName=${encodeURIComponent(branchName)}&startDate=${startDate.toISOString()}&endDate=${endDate.toISOString()}`)
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    throw new Error(data.error);
+                }
+                container.innerHTML = generateVisitsTable(data);
+            })
+            .catch(error => {
+                console.error('Error fetching visits:', error);
+                container.innerHTML = `<div class="alert alert-danger">Failed to load visit data: ${error.message}</div>`;
+            });
+    }
+
+    // Update the filterVisits function to handle both manual and automatic filtering
+    function filterVisits(establishmentName, branchName, modalId) {
+        const form = document.getElementById(`filterForm-${modalId}`);
+        const monthPicker = document.getElementById(`monthPicker-${modalId}`);
+        const container = document.getElementById(`visitsTableContainer-${modalId}`);
+
+        if (!form || !monthPicker || !container) {
+            console.error('Required elements not found');
+            return;
+        }
+
+        const selectedMonth = monthPicker.value;
+
+        // Show loading state
+        container.innerHTML = '<div class="text-center"><div class="spinner-border text-primary" role="status"><span class="visually-hidden">Loading...</span></div></div>';
+
+        let url = `@Url.Action("GetUserVisits", "Admin")?establishmentName=${encodeURIComponent(establishmentName)}&branchName=${encodeURIComponent(branchName)}`;
+
+        // Always include month parameter
+        const [year, month] = selectedMonth.split('-');
+        const startDate = new Date(year, month - 1, 1);
+        const endDate = new Date(year, month, 0); // Last day of the month
+        url += `&startDate=${startDate.toISOString()}&endDate=${endDate.toISOString()}`;
+
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    throw new Error(data.error);
+                }
+                container.innerHTML = generateVisitsTable(data);
+
+                // Update the visit count in the table
+                const visitCountElement = document.querySelector(`[data-bs-target="#${modalId}"][data-establishment="${establishmentName}"][data-branch="${branchName}"]`);
+                if (visitCountElement) {
+                    visitCountElement.textContent = data.length;
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching visits:', error);
+                container.innerHTML = `<div class="alert alert-danger">Failed to load visit data: ${error.message}</div>`;
+            });
+    }
+
+    // Function to generate visits table HTML
+    function generateVisitsTable(visits) {
+        if (!visits || visits.length === 0) {
+            return '<div class="alert alert-info">No visits found for the selected date range.</div>';
+        }
+
+        let tableHtml = `
+            <div class="table-responsive">
+                <table class="table table-striped table-hover">
+                    <thead class="table-primary">
+                        <tr>
+                            <th>Full Name</th>
+                            <th>Visit Date</th>
+                            <th>Transaction Type</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        `;
+
+        visits.forEach(visit => {
+            const visitDate = new Date(visit.date).toLocaleString();
+            tableHtml += `
+                <tr>
+                    <td>${visit.fullName || 'N/A'}</td>
+                    <td>${visitDate}</td>
+                    <td>${visit.transactionType || 'N/A'}</td>
+                </tr>
+            `;
+        });
+
+        tableHtml += `
+                    </tbody>
+                </table>
+            </div>
+        `;
+
+        return tableHtml;
+    }
+
+    // Function to export visits to Excel
+    function exportToExcel(modalId) {
+        const form = document.getElementById(`filterForm-${modalId}`);
+        const selectedMonth = form.querySelector('[name="selectedMonth"]').value;
+        const establishmentName = form.getAttribute('data-establishment');
+        const branchName = form.getAttribute('data-branch');
+
+        // Show loading state
+        Swal.fire({
+            title: 'Exporting...',
+            text: 'Please wait while we prepare your Excel file.',
+            allowOutsideClick: false,
+            didOpen: () => {
+                Swal.showLoading();
+            }
+        });
+
+        // Create a hidden iframe for the download
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        // Set up a timeout to close the loading state if the download doesn't start
+        const timeout = setTimeout(() => {
+            Swal.close();
+            document.body.removeChild(iframe);
+        }, 10000); // 10 seconds timeout
+
+        let url = `@Url.Action("ExportVisitsToExcel", "Admin")?establishmentName=${encodeURIComponent(establishmentName)}&branchName=${encodeURIComponent(branchName)}`;
+
+        // Only add date parameters if a specific month is selected
+        if (selectedMonth !== 'all') {
+            const startDateObj = new Date(selectedMonth + '-01');
+            const endDateObj = new Date(selectedMonth + '-01');
+            endDateObj.setMonth(endDateObj.getMonth() + 1);
+            endDateObj.setDate(0);
+            url += `&startDate=${startDateObj.toISOString()}&endDate=${endDateObj.toISOString()}`;
+        }
+
+        // Set the iframe source to trigger the download
+        iframe.src = url;
+
+        // Clear the timeout when the iframe loads
+        iframe.onload = function() {
+            clearTimeout(timeout);
+            try {
+                const response = JSON.parse(iframe.contentDocument.body.textContent);
+                if (response.error) {
+                    Swal.fire('Error', response.error, 'error');
+                } else {
+                    Swal.close();
+                }
+            } catch (e) {
+                // If it's not JSON, it's probably the file download
+                Swal.close();
+            }
+            document.body.removeChild(iframe);
+        };
+    }
+
+    // Function to export visits to PDF
+    function exportToPDF(modalId) {
+        const form = document.getElementById(`filterForm-${modalId}`);
+        const selectedMonth = form.querySelector('[name="selectedMonth"]').value;
+        const establishmentName = form.getAttribute('data-establishment');
+        const branchName = form.getAttribute('data-branch');
+
+        // Show loading state
+        Swal.fire({
+            title: 'Exporting...',
+            text: 'Please wait while we prepare your PDF file.',
+            allowOutsideClick: false,
+            didOpen: () => {
+                Swal.showLoading();
+            }
+        });
+
+        // Create a hidden iframe for the download
+        const iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+
+        // Set up a timeout to close the loading state if the download doesn't start
+        const timeout = setTimeout(() => {
+            Swal.close();
+            document.body.removeChild(iframe);
+        }, 10000); // 10 seconds timeout
+
+        let url = `@Url.Action("ExportVisitsToPDF", "Admin")?establishmentName=${encodeURIComponent(establishmentName)}&branchName=${encodeURIComponent(branchName)}`;
+
+        // Only add date parameters if a specific month is selected
+        if (selectedMonth !== 'all') {
+            const startDateObj = new Date(selectedMonth + '-01');
+            const endDateObj = new Date(selectedMonth + '-01');
+            endDateObj.setMonth(endDateObj.getMonth() + 1);
+            endDateObj.setDate(0);
+            url += `&startDate=${startDateObj.toISOString()}&endDate=${endDateObj.toISOString()}`;
+        }
+
+        // Set the iframe source to trigger the download
+        iframe.src = url;
+
+        // Clear the timeout when the iframe loads
+        iframe.onload = function() {
+            clearTimeout(timeout);
+            try {
+                const response = JSON.parse(iframe.contentDocument.body.textContent);
+                if (response.error) {
+                    Swal.fire('Error', response.error, 'error');
+                } else {
+                    Swal.close();
+                }
+            } catch (e) {
+                // If it's not JSON, it's probably the file download
+                Swal.close();
+            }
+            document.body.removeChild(iframe);
+        };
+    }
+
+    // Add this function to initialize the month options
+    function initializeMonthOptions() {
+        const currentDate = new Date();
+        const currentYear = currentDate.getFullYear();
+        const currentMonth = currentDate.getMonth();
+
+        // Get all month selectors
+        const monthSelectors = document.querySelectorAll('select[name="selectedMonth"]');
+
+        monthSelectors.forEach(selector => {
+            // Keep the "All Time" option
+            const allOption = selector.querySelector('option[value="all"]');
+            const disabledOption = selector.querySelector('option[value=""]');
+
+            // Clear other options
+            selector.innerHTML = '';
+            selector.appendChild(allOption);
+            selector.appendChild(disabledOption);
+
+            // Add months for the current year and previous year
+            for (let year = currentYear - 1; year <= currentYear; year++) {
+                const startMonth = year === currentYear - 1 ? 0 : 0;
+                const endMonth = year === currentYear ? currentMonth : 11;
+
+                for (let month = startMonth; month <= endMonth; month++) {
+                    const date = new Date(year, month);
+                    const option = document.createElement('option');
+                    option.value = `${year}-${String(month + 1).padStart(2, '0')}`;
+                    option.textContent = date.toLocaleString('default', { month: 'long', year: 'numeric' });
+                    selector.appendChild(option);
+                }
+            }
+        });
+    }
+
+    // Call the initialization function when the document is ready
+    document.addEventListener('DOMContentLoaded', function() {
+        initializeMonthOptions();
+    });
+</script>
+
+@section Scripts {
+    <script>
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <text>
+                            Swal.fire({
+                                icon: 'success',
+                                title: 'Success',
+                                text: '@TempData["SuccessMessage"]',
+                                confirmButtonColor: '#3085d6',
+                                confirmButtonText: 'OK'
+                            });
+            </text>
+        }
+
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <text>
+                            Swal.fire({
+                                icon: 'error',
+                                title: 'Error',
+                                text: '@TempData["ErrorMessage"]',
+                                confirmButtonColor: '#d33',
+                                confirmButtonText: 'OK'
+                            });
+            </text>
+        }
+    </script>
+}
+
+

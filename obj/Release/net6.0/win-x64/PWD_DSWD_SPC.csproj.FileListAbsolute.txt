@@ -1,0 +1,388 @@
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\appsettings.Development.json
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\appsettings.json
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.staticwebassets.runtime.json
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.exe
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.deps.json
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.runtimeconfig.json
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.pdb
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\BCrypt.Net-Next.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ClosedXML.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ClosedXML.Parser.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\DocumentFormat.OpenXml.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\DocumentFormat.OpenXml.Framework.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.Interfaces.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.System.Drawing.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ExcelNumberFormat.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Core.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Razor.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Smtp.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Humanizer.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\QRCoder.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\RazorLight.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\RBush.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\SixLabors.Fonts.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\SkiaSharp.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.IO.Packaging.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Json.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\libSkiaSharp.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.csproj.AssemblyReference.cache
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.AssemblyInfoInputs.cache
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.AssemblyInfo.cs
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.csproj.CoreCompileInputs.cache
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.RazorAssemblyInfo.cache
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.RazorAssemblyInfo.cs
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.build.json
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.development.json
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.PWD_DSWD_SPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.build.PWD_DSWD_SPC.props
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.PWD_DSWD_SPC.props
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.buildTransitive.PWD_DSWD_SPC.props
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.pack.json
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\bundle\PWD_DSWD_SPC.styles.css
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\projectbundle\PWD_DSWD_SPC.bundle.scp.css
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD.50628826.Up2Date
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\refint\PWD_DSWD_SPC.dll
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.pdb
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.genruntimeconfig.cache
+C:\Users\LARA LOUISE\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\ref\PWD_DSWD_SPC.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\appsettings.Development.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\appsettings.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.staticwebassets.runtime.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.staticwebassets.endpoints.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.exe
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.deps.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.runtimeconfig.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.pdb
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\BCrypt.Net-Next.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ClosedXML.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ClosedXML.Parser.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\DocumentFormat.OpenXml.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.Interfaces.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.System.Drawing.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ExcelNumberFormat.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Core.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Razor.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Smtp.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Humanizer.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\QRCoder.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\RazorLight.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\RBush.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\SixLabors.Fonts.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\SkiaSharp.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.IO.Packaging.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Json.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\libSkiaSharp.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.AssemblyInfo.cs
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\bundle\PWD_DSWD_SPC.styles.css
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\projectbundle\PWD_DSWD_SPC.bundle.scp.css
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.build.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.development.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.build.endpoints.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.PWD_DSWD_SPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.PWD_DSWD_SPC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.build.PWD_DSWD_SPC.props
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.PWD_DSWD_SPC.props
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.buildTransitive.PWD_DSWD_SPC.props
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.pack.json
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.upToDateCheck.txt
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD.50628826.Up2Date
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\refint\PWD_DSWD_SPC.dll
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.pdb
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.genruntimeconfig.cache
+C:\Users\USER\Desktop\PWD-SPC-POLISHED\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\ref\PWD_DSWD_SPC.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\appsettings.Development.json
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\appsettings.json
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.staticwebassets.runtime.json
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.exe
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.deps.json
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.runtimeconfig.json
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\PWD_DSWD_SPC.pdb
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\BCrypt.Net-Next.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ClosedXML.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ClosedXML.Parser.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\DocumentFormat.OpenXml.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\DocumentFormat.OpenXml.Framework.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.Interfaces.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\EPPlus.System.Drawing.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ExcelNumberFormat.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Core.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Razor.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\FluentEmail.Smtp.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Humanizer.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\QRCoder.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\RazorLight.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\RBush.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\SixLabors.Fonts.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\SkiaSharp.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Formats.Asn1.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.IO.Packaging.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Encoding.CodePages.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Encodings.Web.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Text.Json.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\libSkiaSharp.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.csproj.AssemblyReference.cache
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.RazorAssemblyInfo.cache
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.RazorAssemblyInfo.cs
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.build.json
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.development.json
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.PWD_DSWD_SPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.build.PWD_DSWD_SPC.props
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.PWD_DSWD_SPC.props
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets\msbuild.buildTransitive.PWD_DSWD_SPC.props
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\staticwebassets.pack.json
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\bundle\PWD_DSWD_SPC.styles.css
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\scopedcss\projectbundle\PWD_DSWD_SPC.bundle.scp.css
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD.50628826.Up2Date
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\refint\PWD_DSWD_SPC.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.pdb
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\PWD_DSWD_SPC.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\obj\Release\net6.0\win-x64\ref\PWD_DSWD_SPC.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\BouncyCastle.Cryptography.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.barcodes.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.bouncy-castle-connector.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.forms.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.io.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.kernel.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.layout.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.pdfa.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.pdfua.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.sign.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.styledxmlparser.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.svg.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.bouncy-castle-adapter.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\itext.commons.dll
+C:\Users\aaron\OneDrive\Desktop\PWD-SPC-ENDGAME\PWD_DSWD_SPC\bin\Release\net6.0\win-x64\Microsoft.DotNet.PlatformAbstractions.dll
